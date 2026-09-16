@@ -67,8 +67,7 @@ cd mercado-intergalactico
 Bash
 npm install
 Atenção Capitão: Certifique-se de que a biblioteca lucide-react foi instalada corretamente:
-```
-
+Bash
 npm install lucide-react
 3. Executar o Motor de Desenvolvimento
 Bash
@@ -107,5 +106,7 @@ JSON
 E instale as definições de tipos do React:
 Bash
 npm install -D @types/react @types/react-dom
+```
+
 🌌 Transmissão Encerrada 🌌
 Desenvolvido pelos Estaleiros de Orion • Todos os direitos reservados para a Frota Unificada de 2142
