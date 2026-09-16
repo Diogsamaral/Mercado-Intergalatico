@@ -1,6 +1,6 @@
 ▲
 ▲ ▲    🌌 MERCADO INTERGALÁCTICO — SETOR 7-G
-▲ ▲ ▲   ------------------------------
+▲ ▲ ▲   ------------------
 [ TRANSMISSÃO CRIPTOGRAFADA V3.1.4 ]
 
 <div align="center">
