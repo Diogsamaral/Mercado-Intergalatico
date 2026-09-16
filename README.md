@@ -1,6 +1,7 @@
 ▲
 ▲ ▲    🌌 MERCADO INTERGALÁCTICO — SETOR 7-G
-▲ ▲ ▲   ------------------------------------
+▲ ▲ ▲   
+------------------------------------
 [ TRANSMISSÃO CRIPTOGRAFADA V3.1.4 ]
 
 <div align="center">
@@ -58,6 +59,7 @@ Antes de iniciar a sequência de propulsão, certifique-se de ter os seguintes m
 ## 🔧 Sequência de Inicialização (Instalação)
 
 ### 1. Clonar o Repositório
+
 ```bash
 git clone [https://github.com/seu-usuario/mercado-intergalactico.git](https://github.com/seu-usuario/mercado-intergalactico.git)
 cd mercado-intergalactico
@@ -65,8 +67,8 @@ cd mercado-intergalactico
 Bash
 npm install
 Atenção Capitão: Certifique-se de que a biblioteca lucide-react foi instalada corretamente:
+```
 
-Bash
 npm install lucide-react
 3. Executar o Motor de Desenvolvimento
 Bash
