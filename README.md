@@ -1,7 +1,6 @@
 ▲
 ▲ ▲    🌌 MERCADO INTERGALÁCTICO — SETOR 7-G
-▲ ▲ ▲   
-------------------------------------
+▲ ▲ ▲   ------------------------------------
 [ TRANSMISSÃO CRIPTOGRAFADA V3.1.4 ]
 
 <div align="center">
@@ -109,4 +108,5 @@ npm install -D @types/react @types/react-dom
 ```
 
 🌌 Transmissão Encerrada 🌌
-Desenvolvido pelos Estaleiros de Orion • Todos os direitos reservados para a Frota Unificada de 2142
+
+*Desenvolvido pelos Estaleiros de Orion • Todos os direitos reservados para a Frota Unificada de 2142*
